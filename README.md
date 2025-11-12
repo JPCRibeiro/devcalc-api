@@ -1,7 +1,7 @@
 # DevCalc API
 
 A **DevCalc API** é uma aplicação REST escrita em **Java**, utilizando o framework **Javalin**.  
-Ela realiza operações matemáticas simples e será usada para validar pipelines automatizados com **GitHub Actions**.
+Ela realiza operações matemáticas simples.
 
 ## ⚙️ Ferramenta de Build
 - Maven
